@@ -3,6 +3,7 @@
 It is a machine learning predictive model, to forecast student performance in online courses by analyzing engagement metrics, assessments, and demographic data. Created a web application for users to interact with the model and view insights.
 
 > [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 - Operating System: Windows 10 & Above
 - Coding Language: Python
 - Front-End: HTML, CSS, JavaScript
